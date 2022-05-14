@@ -1,0 +1,10 @@
+D:\VSS projects\Hotel Classio\Hotel Classio\bin\Debug\Hotel Classio.exe
+D:\VSS projects\Hotel Classio\Hotel Classio\bin\Debug\Hotel Classio.pdb
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel_Classio.Properties.Resources.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel Classio.csproj.GenerateResource.Cache
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel Classio.exe
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel Classio.pdb
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel_Classio.check.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel_Classio.login.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\Debug\Hotel_Classio.Dashboard.resources

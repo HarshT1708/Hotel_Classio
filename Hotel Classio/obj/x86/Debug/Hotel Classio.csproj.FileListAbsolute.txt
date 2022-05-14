@@ -1,0 +1,15 @@
+D:\VSS projects\Hotel Classio\Hotel Classio\bin\x86\Debug\Hotel Classio.exe
+D:\VSS projects\Hotel Classio\Hotel Classio\bin\x86\Debug\Hotel Classio.pdb
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.Add_Room.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.check.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.Dashboard.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.login.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.Properties.Resources.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel Classio.csproj.GenerateResource.Cache
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel Classio.exe
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel Classio.pdb
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.preload.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.Add_cus.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.checkout.resources
+D:\VSS projects\Hotel Classio\Hotel Classio\obj\x86\Debug\Hotel_Classio.Bill.resources
